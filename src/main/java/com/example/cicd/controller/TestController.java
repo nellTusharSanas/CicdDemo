@@ -13,7 +13,8 @@ public class TestController {
 	@GetMapping("/getUserdata")
 	List<String> getUserdata()
 	{
-		///set 
+		//addt
+		///addd
 		List<String>lst=new ArrayList<String>();
 		lst.add("tushar");
 		lst.add("sanas");
